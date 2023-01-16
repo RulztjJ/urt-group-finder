@@ -7,7 +7,6 @@
 
 
 [**HTTP Proxies**]()
-  * **You can use any free proxy and paid proxies.**
 
 # Features
 - High-performance scanning (up to 50M+ checks-per-minute)
