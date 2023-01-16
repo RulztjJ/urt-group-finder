@@ -6,7 +6,7 @@
   * **Requests (pip install requests)**
 
 
-[**HTTP Proxies**]()
+[**HTTP & HTTPs Proxies**]()
 
 # Features
 - High-performance scanning (up to 50M+ checks-per-minute)
